@@ -1,4 +1,4 @@
-# Observability Pattern
+# Observability Setup
 
 A small Spring Boot demo application that demonstrates basic web endpoints, a REST client to JSONPlaceholder, and Micrometer tracing integration that can export traces to Zipkin.
 
